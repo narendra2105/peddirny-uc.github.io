@@ -5,8 +5,8 @@ function showOrHideEmail(){
     visible=false;
   }
   else{
-    var myEmail="<a href='mailto:nakkantm" +"@"+
-                "mail.uc.edu'>nakkantm"+"@"+"mail.uc.edu</a>";
+    var myEmail="<a href='mailto:peddirny" +"@"+
+                "mail.uc.edu'>peddirny"+"@"+"mail.uc.edu</a>";
     document.getElementById('email').innerHTML=myEmail;
     visible= true;
   }
