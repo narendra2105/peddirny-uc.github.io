@@ -30,11 +30,11 @@ i.Using a Bootstrap template that was customized and taken from github, the pers
 
 ii.Including an introduction to the "Web Application Programming and Hacking" course, a link to a new HTML website, and associated practical projects 
 
-![HTTP get responses](images/Sc_1.png)
+![waph](images/Sc_1.png)
 
 First, I connected to it using a <a> element in the education part. There, beneath the description of my master's degree, is a link for "web application programming and hacking," which, when clicked, takes you to the waph.html page, as you can see in the screenshot I've attached.
 
-![HTTP post](images/Sc_3.png)
+![waph response](images/Sc_3.png)
 
 ### Non-Technical-Requirements
 
