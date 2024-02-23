@@ -19,21 +19,24 @@ Narendra Reddy Peddireddy uses this private repository to house all of the cours
 
 The goal of this project is to create a GitHub Pages-hosted professional profile website with a JavaScript, jQuery, and React.js personal portfolio. Technical requirements include using an open-source Bootstrap framework for responsive design, integrating two public online APIs, and using JavaScript cookies to display personalized greetings when a user returns. The incorporation of a Google Analytics page tracker to track site traffic and user engagement is one of the non-technical requirements.
 
-
-###Hands-on hacking exercises
-
-### 
+The directory can be accessed at https://github.com/narendra2105/peddirny-uc.github.io/edit/main/README.md.
 
 
+### General requirements:
 
-![HTTP Get requests](images/Sc_1.png)
+i.Using a Bootstrap template that was customized and taken from github, the personal portfolio was created. It includes professional details like name, contact information, educational background, experiences, and skills, as well as a section that highlights completed labs and hackathons from the WAPH coursework.
 
+![individual portfolio](images/Sc_0.png)
 
-![HTTP get responses](images/Sc_2.png)
+ii.Including an introduction to the "Web Application Programming and Hacking" course, a link to a new HTML website, and associated practical projects 
 
+![HTTP get responses](images/Sc_1.png)
+
+First, I connected to it using a <a> element in the education part. There, beneath the description of my master's degree, is a link for "web application programming and hacking," which, when clicked, takes you to the waph.html page, as you can see in the screenshot I've attached.
 
 ![HTTP post](images/Sc_3.png)
 
+### Non-Technical-Requirements
 
 ![Screenshot4](images/Sc_4.png)
 
