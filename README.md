@@ -38,29 +38,29 @@ First, I connected to it using a <a> element in the education part. There, benea
 
 ### Non-Technical-Requirements
 
-![Screenshot4](images/Sc_4.png)
+![Screenshot4](images/Sc_3.png)
 
 
 
 
 
-![Screenshot5](images/Sc_5.png)
+![Screenshot5](images/Sc_4.png)
 
 
 
-![Screenshot6](images/Sc_6.png)
+![Screenshot6](images/Sc_5.png)
 
 
-![Email](images/Sc_7.png)
+![Email](images/Sc_6.png)
 
 
-![Email display](images/Sc_8.png)
-
-
-
-![Analog Clock](images/Sc_9.png)
+![Email display](images/Sc_7.png)
 
 
 
-![Ajax](images/Sc_10.png)
+![Analog Clock](images/Sc_8.png)
+
+
+
+![Ajax](images/Sc_9.png)
 
