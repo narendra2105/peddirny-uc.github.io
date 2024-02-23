@@ -34,7 +34,7 @@ ii.Including an introduction to the "Web Application Programming and Hacking" co
 
 First, I connected to it using a <a> element in the education part. There, beneath the description of my master's degree, is a link for "web application programming and hacking," which, when clicked, takes you to the waph.html page, as you can see in the screenshot I've attached.
 
-![waph response](images/Sc_3.png)
+![waph response](images/Sc_2.png)
 
 ### Non-Technical-Requirements
 
