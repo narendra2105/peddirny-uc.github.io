@@ -39,11 +39,16 @@ First, I connected to it using a <a> element in the education part. There, benea
 ### Non-Technical-Requirements
 
 i My professional portfolio, which targets potential employers and will be assessed as part of my job application process, makes use of an open-source CSS framework such as Bootstrap.
+
 ![Screenshot4](images/Sc_3.png)
 
 ii page tracker
+
 This portfolio incorporates a Google analytics page tracker to keep an eye on traffic and statistics.
+
+
 ![Screenshot5](images/Sc4.png)
+
 
 ![Screenshot6](images/Sc5.png)
 
