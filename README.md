@@ -45,22 +45,43 @@ ii page tracker
 This portfolio incorporates a Google analytics page tracker to keep an eye on traffic and statistics.
 ![Screenshot5](images/Sc4.png)
 
-### Technical_requirements
-
-
 ![Screenshot6](images/Sc5.png)
 
+### Technical_requirements
 
-![Email](images/Sc_6.png)
+i A React.js component was created independently for the digital clock, compiled as a stand-alone JavaScript file, and added to the project along with the required React and ReactDOM libraries. On the other hand, the analog clock feature was added to the website directly, improving user experience, and was placed inside the contact section. This was accomplished by utilizing code that was identical to that used in a prior lab.
 
-
-![Email display](images/Sc_7.png)
-
-
-
-![Analog Clock](images/Sc_8.png)
+![javascript code](images/Sc_6.png)
 
 
+![javascript output](images/Sc_7.png)
 
-![Ajax](images/Sc_9.png)
+ii Integration of Web APIs
+
+Using the weather API from weatherbit.io, I was able to incorporate weather data into the website and improve user experience by retrieving relevant information like current weather conditions and accompanying weather icons.
+
+![weather api](images/Sc_8.png)
+
+![weather api output](images/Sc_9.png)
+
+Like in a previous lab activity, I added a joke API to my website and at the conclusion of the page showed the joke that was retrieved, making the user experience fun and interesting.
+
+![joke api code](images/Sc_10.png)
+![Screenshot4](images/Sc_3.png)
+
+iii JavaScript cookies
+
+Cookies are used by websites to save session states, which enable them to customize user experiences. To improve user engagement and retention, newly registered users will have a personalized "welcome back" greeting, while new users will see a "welcome to my profile" message.
+
+
+![JavaScript cookies](images/Sc_11.png)
+
+![JavaScript cookies](images/Sc_12.png)
+
+![JavaScript cookies](images/Sc_13.png)
+
+![JavaScript cookies](images/Sc_14.png)
+
+![JavaScript cookies](images/Sc_15.png)
+
 
